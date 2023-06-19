@@ -1,8 +1,7 @@
 public class SnitSoftScam {
     public static void main(String args[]){
-        double amount;  //amount = amount of money 
+        double amount = 5.95;;  //amount = amount of money 
 
-        amount = 5.95;
         amount = amount + 25.00;
 
         System.out.print("We will bill ");            //Communicate to user we are charging them up the a$$ for shipping
@@ -10,4 +9,6 @@ public class SnitSoftScam {
         System.out.println(" to your credit card");
 
     }
+
+    //try to add a sale function to add a discount 
 }
