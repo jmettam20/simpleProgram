@@ -12,3 +12,4 @@ public class SnitSoftScam {
 
     //try to add a sale function to add a discount 
 }
+
