@@ -1,0 +1,13 @@
+public class postIncrament {
+    public static void main(String args[]){
+        int gumballs = 27;                          //set var
+
+        gumballs++;                                 //incrament
+
+        System.out.println(gumballs);               //print
+        System.out.println(gumballs++);             //incrament again ... 
+        System.out.println(gumballs++);
+
+    }
+}
+//this is post incrament so add value after execution rather than before 
