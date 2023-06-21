@@ -10,3 +10,4 @@ public class incrament {
 
     }
 }
+//this is pre incrament so add value before execution rather than after  ++var rather than var++ 
